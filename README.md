@@ -1,7 +1,7 @@
 - 👋 Hello, and welcome to my Profile!
 - ⚛️ A big fan of React.js native and AWS.
 - 🌱 Looking to grow every day and be better than the last
-- 🎣 Tell me about your best fisherman story.
+- 🎣 Tell me about your best fishing story.
 - 📫 Please feel free to reach out to me on my linkedIn
   https://www.linkedin.com/in/jack-nowaczewski/
 
